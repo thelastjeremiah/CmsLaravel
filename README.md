@@ -1,6 +1,7 @@
 
 ## A Simple Coffee Shop CMS System Powered by <span style="color:  #FF2D20;  font-weight: bold;">LARAVEL</span>
 
+<img src="public/image/laravel-project.png" width="100%" height="100%" style="margin-top:1.5rem;">
 
 ### Tech stacked used 
 <div style="margin-bottom:1rem;margin-top:1.5rem; display: grid; grid-template-columns: repeat(6, 35px); grid-gap: 20px;">
