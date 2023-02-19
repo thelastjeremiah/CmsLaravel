@@ -1,0 +1,11 @@
+.form-control{
+  background-color: #C89E70 !important;
+  border: 1px solid #C89E70 !important;
+  border-radius:0px;
+}
+
+
+textarea{
+  background-color: #C89E70 !important;
+  border: 1px solid #C89E70 !important;
+}

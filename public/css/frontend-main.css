@@ -1,0 +1,235 @@
+.color-1D1814{
+  color:#1D1814;
+}
+
+.color-1D1814-bg{
+  background-color: #1D1814;
+}
+
+.Poppins{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.Poppins-important{
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.Roboto{
+  font-family: 'Roboto', sans-serif;
+}
+
+.Cormorant-Garamond{
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.color-C89E70{
+  color:#C89E70;
+}
+
+.color-C89E70-important{
+  color:#C89E70 !important;
+}
+
+
+/* home */
+.main-banner{
+  background:linear-gradient(0deg, #120F0A, #120f0a7e),  url("/image/banner-image.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  height: 90vh;
+}
+
+.center-me{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.btn-color-custom{
+  background-color: #C89E70;
+}
+
+.bg-main-color{
+  background-color: #120F0A;
+}
+
+.overflow-custom-hidden{
+  overflow-x: hidden !important;
+}
+
+.text-justify{
+  text-align: justify;
+}
+
+.bg-1C1815{
+  background-color: #1C1815;
+}
+
+
+.animate__animated_duration_header_1.animate__animated.animate__fadeInUp{
+  --animate-duration: 1s;
+}
+
+.animate__animated_duration_header_2.animate__animated.animate__fadeInUp{
+  --animate-duration: 1.5s;
+}
+
+.animate__image_delay_1.animate__animated.animate__fadeInUp{
+  --animate-duration: 1s;
+}
+
+.animate__image_delay_2.animate__animated.animate__fadeInUp{
+  --animate-duration: 1.5s;
+}
+
+.animate__image_delay_3.animate__animated.animate__fadeInUp{
+  --animate-duration: 2s;
+}
+
+.animate_slide_delay.animate__animated.animate__slideInLeft{
+  --animate-duration: 1.5s;
+}
+.animate_slide_delay.animate__animated.animate__slideInRight{
+  --animate-duration: 1.5s;
+}
+
+.animate__coffee.animate__animated.animate__fadeInUp{
+  --animate-duration: 1s;
+}
+
+/* home */
+
+
+/* thank you */
+
+.thankyou-banner{
+  background:linear-gradient(0deg, #120f0a7e, #120F0A),  url("/image/thankyou.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  height: 100vh;
+}
+
+/* thank you */
+
+/* about us */
+.about-us{
+  background:linear-gradient(0deg, #120F0A, #120f0a7e),  url("/image/about-us-bg.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  height: 90vh;
+}
+
+
+.animate__about_delay_1.animate__animated.animate__fadeInUp{
+  --animate-duration: 1s;
+}
+
+.animate__about_delay_2.animate__animated.animate__fadeInUp{
+  --animate-duration: 1.5s;
+}
+
+.animate__about_delay_3.animate__animated.animate__fadeInUp{
+  --animate-duration: 2s;
+}
+
+.animate__about_delay_4.animate__animated.animate__fadeInUp{
+  --animate-duration: 2.5s;
+}
+
+.animate__about_delay_5.animate__animated.animate__fadeInUp{
+  --animate-duration: 3s;
+}
+
+.animate__about_delay_6.animate__animated.animate__fadeInUp{
+  --animate-duration: 3.5s;
+}
+
+.animate__about_delay_7.animate__animated.animate__fadeInUp{
+  --animate-duration: 4s;
+}
+
+.animate__about_delay_8.animate__animated.animate__fadeInUp{
+  --animate-duration: 4.5s;
+}
+
+
+.animate__about_delay_9.animate__animated.animate__fadeInUp{
+  --animate-duration: 3s;
+}
+
+.animate__about_delay_10.animate__animated.animate__fadeInUp{
+  --animate-duration: 3.5s;
+}
+
+/* about us */
+
+
+/* blog*/
+
+.card-width{
+  width: 18rem
+}
+
+.card-border{
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-top-width: 0px;
+  border-top-style: solid;
+}
+
+.card-radius{
+  border-radius: 0;
+}
+
+.card-fs{
+  font-size: 0.8rem;
+}
+
+
+.animate__blog.animate__animated.animate__fadeInUp{
+  --animate-duration: 1.5s;
+}
+
+.blog-banner{
+  background:linear-gradient(0deg, #120F0A, #120f0a7e),  url("/image/blog-image.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  height: 100vh;
+}
+
+
+/* blog  */
+
+/* blog-single  */
+.blog-banner-single{
+  background:linear-gradient(0deg, #120F0A, #120f0a7e),  url("/image/blog-image.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  height: 80vh;
+}
+/* blog-single  */
+
+
+
+/* blogs */
+.animate_blogs.animate__animated.animate__fadeInUp{
+  --animate-duration: 1s;
+}
+/* blogs */
